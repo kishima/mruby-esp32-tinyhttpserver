@@ -1,0 +1,7 @@
+name: mruby-esp32-tinyhttpservera
+description: Tiny HTTP server for mruby-esp32
+author: KAGEYAMA Katsuhiko
+website: https://github.com/kishima/mruby-esp32-tinyhttpserver
+protocol: git
+repository: https://github.com/kishima/mruby-esp32-tinyhttpserver.git
+license: MIT
